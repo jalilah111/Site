@@ -238,7 +238,7 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/open-sdg/open-sdg-data-starter'
+repository_url_data: 'https://github.com/jalilah111/Data'
 repository_url_site: 'https://github.com/jalilah111/Site'
 search_index_boost: []
 search_index_extra_fields: []
